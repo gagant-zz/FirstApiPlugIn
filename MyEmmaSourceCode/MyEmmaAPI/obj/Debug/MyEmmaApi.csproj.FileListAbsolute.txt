@@ -1,0 +1,5 @@
+D:\Projects\MyEmma\MyEmmaSourceCode\MyEmmaAPI\bin\Debug\MyEmmaApi.pdb
+D:\Projects\MyEmma\MyEmmaSourceCode\MyEmmaAPI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MyEmma\MyEmmaSourceCode\MyEmmaAPI\obj\Debug\MyEmmaApi.pdb
+D:\Projects\MyEmma\MyEmmaSourceCode\MyEmmaAPI\bin\Debug\MyEmmaApi.exe
+D:\Projects\MyEmma\MyEmmaSourceCode\MyEmmaAPI\obj\Debug\MyEmmaApi.exe
